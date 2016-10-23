@@ -1,0 +1,2 @@
+# welcomecitizen
+Creative solutions to real world problems powered by technology and collaboration that address local immigration issues in Central Texas.  Often, people seeking to immigrate to Austin are put in boxes that deny their talents and contributions, or limit their opportunities due to language and/or cultural barriers.   This project is about breaking down these barriers and allowing people to fulfill their potential as citizens and professionals.
